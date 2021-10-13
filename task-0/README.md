@@ -5,3 +5,5 @@ I achieved this by installing and setting up  Kubuntu, a flavour of Ubuntu runni
 The default Linux kernel included in installation package did not have support my laptop's wifi adapter.
 I resolved this by downloading and signing the latest kernel, 5.14.11
 I finished the task by installing the necessary software and some light desktop customization.
+
+blog link:
