@@ -16,6 +16,6 @@ hackerrank problems
 
 08 - completed
 
-09 - in progress
+09 - completed
 
 10 - not yet attempted
