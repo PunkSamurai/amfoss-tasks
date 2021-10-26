@@ -8,7 +8,7 @@ hackerrank problems
 
 04 - stuck
 
-05 - stuck
+05 - completed
 
 06 - completed
 
