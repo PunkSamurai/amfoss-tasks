@@ -12,10 +12,10 @@ hackerrank problems
 
 06 - completed
 
-07 - not yet attempted
+07 - completed
 
 08 - completed
 
 09 - completed
 
-10 - not yet attempted
+10 - stuck
