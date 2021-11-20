@@ -4,9 +4,9 @@ hackerrank problems
 
 02 - completed
 
-03 - stuck
+03 - doesnt work
 
-04 - stuck
+04 - kind of works
 
 05 - completed
 
@@ -18,4 +18,4 @@ hackerrank problems
 
 09 - completed
 
-10 - stuck
+10 - kind of works
